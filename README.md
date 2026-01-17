@@ -1,4 +1,4 @@
-# Monris AI (PySide6 + Groq)
+# GUI Chat AI (PySide6 + Groq)
 
 Interfaz de chat en escritorio construida con PySide6 y Groq. Incluye streaming de respuestas, selector de modelo, temperatura, perfiles, modo compacto, editor de system prompt por sesion, y metricas basicas por respuesta.
 
